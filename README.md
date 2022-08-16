@@ -1,1 +1,1 @@
-# automatic-tribble
+# etch-a-sketch
